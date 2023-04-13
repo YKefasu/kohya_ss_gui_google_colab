@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YKefasu/kohya_ss_gui_google_colab/blob/master/kohya_ss_gui_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YKefasu/kohya_ss_gui_google_colab/blob/master/kohya_ss_gui_colab_v2.ipynb)
 
 # Kohya SS GUI (Google Colab)
 
